@@ -36,7 +36,7 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
 
   # 💻 Coding Activities 💻
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arongsnuna&show_icons=true&theme=vue)   &nbsp;
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arongsnuna&show_icons=true&theme=vue)
 
 <br/>
 
