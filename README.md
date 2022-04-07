@@ -9,6 +9,7 @@ https://simpleicons.org/
 # :raising_hand_woman: My Portfolio :raising_hand_woman:
 https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e06044 
   :mortar_board: Student of Sangmyung Univ.<br/>
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=unhipark)](https://solved.ac/unhipark)
 -->
 
 <div align=center>
@@ -36,9 +37,8 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
   # 💻 Coding Activities 💻
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arongsnuna&show_icons=true&theme=vue)   &nbsp;
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=unhipark)](https://solved.ac/unhipark)
 
-<br/><br/>
+<br/>
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=8BBC97&height=200&section=footer)
 
