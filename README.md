@@ -15,7 +15,7 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
 <div align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=8BBC97&text=%20Hi,%20I'm%20Unhi%20Park.%20👋%20&height=300&fontSize=75)
-  
+  <!--
  # 🛠️ Tech Stack 🛠️
   Techs that I've used at least once
 
@@ -28,7 +28,13 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <br/><br/>
-
+-->  
+  # 📋 Portfolio 📋
+  https://www.notion.so/Arongsnuna-fb62c45c376345a5b6744ffa799c8ea9?pvs=4
+  
+  # 📂 Blog 📂
+  https://arongsnuna.tistory.com/
+  
   # 🏆 Awards 🏆
   🥈 Silicon Valley Software Innovation & Technology Program Entrepreneurship Award Second Prize
   <br/><br/>
