@@ -29,14 +29,14 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <br/><br/>
 -->  
-  # 📋 Portfolio 📋
+  # 📋 My Portfolio 📋
   https://www.notion.so/Arongsnuna-fb62c45c376345a5b6744ffa799c8ea9?pvs=4
-  
+    <br/><br/>
   # 📂 Blog 📂
   https://arongsnuna.tistory.com/
-  
+    <br/><br/>
   # 🏆 Awards 🏆
-  🥈 Silicon Valley Software Innovation & Technology Program Entrepreneurship Award Second Prize
+  🥈 Silicon Valley Software Innovation & Technology Program Entrepreneurship Award Second Prize<br/>
   🎖️ National Scholarship for Excellence (Science and Engineering, 2 years)
   <br/><br/>
 
