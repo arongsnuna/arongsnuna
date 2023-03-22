@@ -37,6 +37,7 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
   
   # 🏆 Awards 🏆
   🥈 Silicon Valley Software Innovation & Technology Program Entrepreneurship Award Second Prize
+  🎖️ National Scholarship for Excellence (Science and Engineering, 2 years)
   <br/><br/>
 
 
