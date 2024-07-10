@@ -16,7 +16,7 @@ https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e0
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arongsnuna/)](https://www.instagram.com/arongsnuna/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=round-square&logo=Tistory&logoColor=white&link=https://arongsnuna.tistory.com/)](https://arongsnuna.tistory.com/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=Tistory&logoColor=white&link=https://beaded-squash-023.notion.site/fb62c45c376345a5b6744ffa799c8ea9?pvs=25/)](https://beaded-squash-023.notion.site/fb62c45c376345a5b6744ffa799c8ea9?pvs=25)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white&link=https://beaded-squash-023.notion.site/fb62c45c376345a5b6744ffa799c8ea9?pvs=25/)](https://beaded-squash-023.notion.site/fb62c45c376345a5b6744ffa799c8ea9?pvs=25)
 
 ## 🎓 Education
 상명대학교 컴퓨터과학과 (2020.03 ~ 2025.02)
